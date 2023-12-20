@@ -21,7 +21,7 @@ imagemaps demo
 <h1>
 imagemaps demo
 </h1>
-<img src="Harini home town.jpg" usemap="#image_map">
+<img src="Manisha home town.jpg" usemap="#image_map">
 <map name="image_map">
 <area alt="tindivanam" title="tindivanam"
 href="tindivanam.html" coords="671,505,858,559" shape="rect">
