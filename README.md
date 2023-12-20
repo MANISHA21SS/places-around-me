@@ -8,7 +8,7 @@ write the code appropriately.
 ### Step 2:
 run the program
 ## Code:
-~~
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -107,7 +107,7 @@ tadumur
 </h1>
 </body>
 </html>
-~~
+
 ## Output:
 file:///home/sec/Downloads/284919329-06834c07-fd03-4174-ac47-bc49aec5a1fa.jpg![image](https://github.com/MANISHA21SS/places-around-me/assets/147474298/59d5ee1d-2d25-45d2-bd76-4900cdd5bb95)
 file:///home/sec/Downloads/284920313-2624bbfa-3fbd-4963-ae2e-4f5fca45df74.png![image](https://github.com/MANISHA21SS/places-around-me/assets/147474298/bc2bdb2e-a5de-4c8b-b16f-dd78652b11ba)
