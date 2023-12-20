@@ -8,6 +8,7 @@ write the code appropriately.
 ### Step 2:
 run the program
 ## Code:
+~~
 <!DOCTYPE html>
 <html>
  <head>
@@ -106,6 +107,7 @@ tadumur
  </h1>
  </body>
 </html>
+~~
 
 ## Output:
 ![284920313-2624bbfa-3fbd-4963-ae2e-4f5fca45df74](https://github.com/MANISHA21SS/places-around-me/assets/147474298/e8b7994c-8697-4534-86ef-431e13540b4d)
